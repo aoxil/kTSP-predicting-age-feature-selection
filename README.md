@@ -7,16 +7,16 @@ kTSP is a potential solution to the batch problem because it uses the relative g
 The data used for training in this notebook are all from gene_labelled_data.csv
 
 # File structure
--kTSP.ipynb: kTSP classifier and feature selection
+-kTSP.ipynb: kTSP classifier and feature selection\
 This notebook completes three tasks: 10-fold CV repetead 3 times for predicting age using kTSP classifer on entire data; feature selection of gene pairs by kTSP algorithm to use in ensemble; and predict age on data reserved from feature selection using kTSP classifier. It generates a new csv file "binary_gene_labels" that contains a binary matrix of the gene expression data. The row of the generated file is each person, and the column is each TSP that aims to reduce batch problem by transforming raw expression data to relative expression level.
 
--Train your own predictor on your data.ipynb
+-Train your own predictor on your data.ipynb\
 This notebook loads gene expression data and performs prediction on a chosen method (i.e. LDA, KNN, Random Forest, etc.) in customized ensemble. It generalizes a graph to visualize the performance of the model.
 
--age_predictors.py
+-age_predictors.py\
 This file contains codes that implement classes of ensembles using different predicting methods.
 
--gene_labelled_data.csv
+-gene_labelled_data.csv\
 The orignial gene expression used for feature selection and generation of the new csv file.
 
 # Requirements on environment
