@@ -32,7 +32,10 @@ seaborn version: 0.11.1\
 -Link to repository and paper of the original predictor: \
 https://github.com/jasongfleischer/Predicting-age-from-the-transcriptome-of-human-dermal-fibroblasts \
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1599-6 \
+
 -Reference to kTSP algorithm and R packages:\
 Afsari, Bahman, Elana J. Fertig, Donald Geman, and Luigi Marchionni. 2015. “SwitchBox: An R Package for K–Top Scoring Pairs Classifier Development.” Bioinformatics 31 (2): 273–74. https://doi.org/10.1093/bioinformatics/btu622. \
+
 Marzouka, Nour-Al-Dain, and Pontus Eriksson. 2021. “MulticlassPairs: An R Package to Train Multiclass Pair-Based Classifier.” Bioinformatics. February 5, 2021. https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab088/6129103. \
-Tan, Aik Choon, Daniel Q. Naiman, Lei Xu, Raimond L. Winslow, and Donald Geman. 2005. “Simple Decision Rules for Classifying Human Cancers from Gene Expression Profiles.” Bioinformatics (Oxford, England) 21 (20): 3896–3904. https://doi.org/10.1093/bioinformatics/bti631. \
+
+Tan, Aik Choon, Daniel Q. Naiman, Lei Xu, Raimond L. Winslow, and Donald Geman. 2005. “Simple Decision Rules for Classifying Human Cancers from Gene Expression Profiles.” Bioinformatics (Oxford, England) 21 (20): 3896–3904. https://doi.org/10.1093/bioinformatics/bti631.
