@@ -31,7 +31,7 @@ seaborn version: 0.11.1
 # Reference
 -Link to repository and paper of the original predictor: \
 https://github.com/jasongfleischer/Predicting-age-from-the-transcriptome-of-human-dermal-fibroblasts \
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1599-6 \
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1599-6
 
 -Reference to kTSP algorithm and R packages:\
 Afsari, Bahman, Elana J. Fertig, Donald Geman, and Luigi Marchionni. 2015. “SwitchBox: An R Package for K–Top Scoring Pairs Classifier Development.” Bioinformatics 31 (2): 273–74. https://doi.org/10.1093/bioinformatics/btu622.
